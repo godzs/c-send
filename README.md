@@ -1,1 +1,1 @@
-# c++-send
+# c-send
