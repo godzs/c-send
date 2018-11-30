@@ -91,7 +91,7 @@ void out::output()
 			ocout << head << " ";
 			ocout << temp;
 			ocout << " " << tail;
-			cout << "Complete save!" << endl;
+			cout << "Complete save!" << endl;    
 		}
 	}
 	ocout.close();
